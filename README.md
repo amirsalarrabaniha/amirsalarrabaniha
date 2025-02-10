@@ -26,24 +26,6 @@
 
 ---
 
-### 📌 Notable Projects
-
-#### **Flutter Projects:**
-- **[Toonie](https://toonie.org/)** – Cryptocurrency Exchange (Flutter, GetX, Clean Architecture)
-- **[VisaPick](https://visapick.com/fa/)** – Immigration Service App (Flutter, BLoC, GoRouter)
-- **[FoodBresoon](https://bresoon.com/)** – Online Food Retail App (Flutter, GetX, Hive, SQLite)
-- **[Hark](https://cafebazaar.ir/app/ir.hark.photoeditor?l=en)** – Photo Editing App (Drift, Firebase, Screenshot, Image Processing)
-- **[Otooban](https://otooban.ir/)** – Dry Cleaning & Laundry App
-- **[EasyLamp]** – Smart Lamp Control App (Flutter, Bluetooth, Isar)
-
-#### **Android Projects:**
-- **[Parmis Mobile](https://www.parmisit.com/)** – Accounting App with 500K+ Users (MVVM, Dagger, Firebase)
-- **[Orbi](https://kasboom.ir/)** – Educational Bluetooth Robot App (Java, Volley, Custom Views)
-- **[Kasboom](https://kasboom.ir/)** – Business Management App (Retrofit, Databinding, Bluetooth)
-- **[Hark](https://cafebazaar.ir/app/ir.hark.photoeditor?l=en)** – Android version of Hark photo editor
-
----
-
 ### 📞 Contact Me
 
 - **Email:** [amyrsalarr@gmail.com](mailto:amyrsalarr@gmail.com)  
